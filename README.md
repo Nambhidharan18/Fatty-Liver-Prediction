@@ -59,3 +59,45 @@ Save results into a secure SQLite database.
 📊 Doctor dashboard with patient history
 
 🗣️ Multilingual and voice-enabled support
+
+# **📄 Demo Screenshot**
+
+**Programmer Defining the Sample Size:**
+
+![image](https://github.com/user-attachments/assets/95978a75-a362-44b8-bb66-ee018c872ffd)
+
+**Dataset Generated:**
+
+![image](https://github.com/user-attachments/assets/fd4300bd-884a-431b-bb33-c9dccf58e314)
+
+
+![image](https://github.com/user-attachments/assets/6a84308c-44e9-4777-8321-b665cb4bc3b7)
+
+**SQLite Database to Store Patient Report**
+
+![image](https://github.com/user-attachments/assets/47ec5bca-26d5-437d-9110-d08848f3d9b2)
+
+
+**Saving the Stack Model with Scaler file After Training**
+
+![image](https://github.com/user-attachments/assets/8115ec32-0e85-4f81-8c87-d80339650d3b)
+
+
+**Model Deployee for Patient Report Generation**
+
+![image](https://github.com/user-attachments/assets/69d7d3bc-5a98-41f7-b5d8-a66be0391fed)
+
+**After Generating the Patient Report it automatically Stored in a database Managed by a GUI System**
+
+![image](https://github.com/user-attachments/assets/1ffcb834-0fba-4414-9bba-f90c82dc7983)
+
+
+
+
+
+
+
+
+
+
+
